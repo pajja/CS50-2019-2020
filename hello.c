@@ -1,9 +1,6 @@
 #include <stdio.h>
-#include <cs50.h>
 
-    int main()
-
+int main (void)
 {
-
-        printf("Hello!") ;
+    printf("Hello!\n") ;
 }
